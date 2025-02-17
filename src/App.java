@@ -77,6 +77,6 @@ public class App {
 
         System.out.println("Prezzo finale divano2: " + divano2.prezzoFinale() + "euro");
 
-       
+       //prova
     }
 }
